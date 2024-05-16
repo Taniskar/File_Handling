@@ -1,0 +1,101 @@
+2024-05-16 12:11:13,742 root INFO This is my INFO
+2024-05-16 12:11:13,743 root DEBUG This is my debug log
+2024-05-16 12:11:13,743 root WARNING This is warning
+2024-05-16 12:11:13,744 root CRITICAL This is critical issue
+2024-05-16 12:19:00,244 root INFO This is my INFO
+2024-05-16 12:19:00,245 root DEBUG This is my debug log
+2024-05-16 12:19:00,245 root WARNING This is warning
+2024-05-16 12:19:00,246 root CRITICAL This is critical issue
+2024-05-16 12:19:17,402 root INFO This is my INFO
+2024-05-16 12:19:17,402 root DEBUG This is my debug log
+2024-05-16 12:19:17,403 root WARNING This is warning
+2024-05-16 12:19:17,403 root CRITICAL This is critical issue
+2024-05-16 12:19:28,373 root INFO This is my INFO
+2024-05-16 12:19:28,373 root DEBUG This is my debug log
+2024-05-16 12:19:28,374 root WARNING This is warning
+2024-05-16 12:19:28,374 root CRITICAL This is critical issue
+2024-05-16 12:19:36,171 root INFO This is my INFO
+2024-05-16 12:19:36,172 root DEBUG This is my debug log
+2024-05-16 12:19:36,172 root WARNING This is warning
+2024-05-16 12:19:36,173 root CRITICAL This is critical issue
+2024-05-16 12:20:53,020 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,021 root INFO This is the value of i : 1
+2024-05-16 12:20:53,021 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,021 root INFO This is the value of i : 2
+2024-05-16 12:20:53,021 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,021 root INFO This is the value of i : 3
+2024-05-16 12:20:53,022 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,022 root INFO This is the value of i : 4
+2024-05-16 12:20:53,022 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,022 root INFO This is the value of i : 5
+2024-05-16 12:20:53,023 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,023 root INFO This is the value of i : 6
+2024-05-16 12:20:53,023 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,023 root INFO This is the value of i : [6, 6, 7]
+2024-05-16 12:20:53,023 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,023 root INFO This is the value of i : hiren
+2024-05-16 12:20:53,023 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:20:53,024 root INFO This is the value of i : patel
+2024-05-16 12:23:17,243 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,243 root INFO This is the value of i : 1
+2024-05-16 12:23:17,244 root INFO This is the end of the program
+2024-05-16 12:23:17,244 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,244 root INFO This is the value of i : 2
+2024-05-16 12:23:17,244 root INFO This is the end of the program
+2024-05-16 12:23:17,244 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,244 root INFO This is the value of i : 3
+2024-05-16 12:23:17,245 root INFO This is the end of the program
+2024-05-16 12:23:17,245 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,245 root INFO This is the value of i : 4
+2024-05-16 12:23:17,245 root INFO This is the end of the program
+2024-05-16 12:23:17,245 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,245 root INFO This is the value of i : 5
+2024-05-16 12:23:17,245 root INFO This is the end of the program
+2024-05-16 12:23:17,246 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,246 root INFO This is the value of i : 6
+2024-05-16 12:23:17,246 root INFO This is the end of the program
+2024-05-16 12:23:17,247 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,247 root INFO This is the value of i : [6, 6, 7]
+2024-05-16 12:23:17,247 root INFO This is the end of the program
+2024-05-16 12:23:17,247 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,247 root INFO This is the value of i : hiren
+2024-05-16 12:23:17,247 root INFO This is the end of the program
+2024-05-16 12:23:17,248 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:23:17,248 root INFO This is the value of i : patel
+2024-05-16 12:23:17,248 root INFO This is the end of the program
+2024-05-16 12:25:08,519 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,520 root INFO This is the value of i : 1
+2024-05-16 12:25:08,520 root INFO Output: int = [1] and str = []
+2024-05-16 12:25:08,520 root INFO This is the end of the program
+2024-05-16 12:25:08,520 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,520 root INFO This is the value of i : 2
+2024-05-16 12:25:08,520 root INFO Output: int = [1, 2] and str = []
+2024-05-16 12:25:08,521 root INFO This is the end of the program
+2024-05-16 12:25:08,521 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,521 root INFO This is the value of i : 3
+2024-05-16 12:25:08,521 root INFO Output: int = [1, 2, 3] and str = []
+2024-05-16 12:25:08,522 root INFO This is the end of the program
+2024-05-16 12:25:08,522 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,522 root INFO This is the value of i : 4
+2024-05-16 12:25:08,522 root INFO Output: int = [1, 2, 3, 4] and str = []
+2024-05-16 12:25:08,522 root INFO This is the end of the program
+2024-05-16 12:25:08,522 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,523 root INFO This is the value of i : 5
+2024-05-16 12:25:08,523 root INFO Output: int = [1, 2, 3, 4, 5] and str = []
+2024-05-16 12:25:08,523 root INFO This is the end of the program
+2024-05-16 12:25:08,523 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,523 root INFO This is the value of i : 6
+2024-05-16 12:25:08,523 root INFO Output: int = [1, 2, 3, 4, 5, 6] and str = []
+2024-05-16 12:25:08,523 root INFO This is the end of the program
+2024-05-16 12:25:08,523 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,524 root INFO This is the value of i : [6, 6, 7]
+2024-05-16 12:25:08,524 root INFO Output: int = [1, 2, 3, 4, 5, 6] and str = []
+2024-05-16 12:25:08,524 root INFO This is the end of the program
+2024-05-16 12:25:08,524 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,524 root INFO This is the value of i : hiren
+2024-05-16 12:25:08,525 root INFO Output: int = [1, 2, 3, 4, 5, 6] and str = ['hiren']
+2024-05-16 12:25:08,525 root INFO This is the end of the program
+2024-05-16 12:25:08,525 root INFO This is start of for loop [1, 2, 3, 4, 5, 6, [6, 6, 7], 'hiren', 'patel']
+2024-05-16 12:25:08,525 root INFO This is the value of i : patel
+2024-05-16 12:25:08,525 root INFO Output: int = [1, 2, 3, 4, 5, 6] and str = ['hiren', 'patel']
+2024-05-16 12:25:08,525 root INFO This is the end of the program
